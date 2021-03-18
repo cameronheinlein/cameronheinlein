@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cameronheinlein, you can call me Cam
-- 👀 I’m interested in educational technology 
+- 👀 I’m interested in web development and educational technology 
 - 💡 I’m currently learning full stack development 
 - 📫 Reach me cameron.heinlein@gmail.com
 - 👩🏼‍💻 [LinkedIn](linkedin.com/in/cameronheinlein)
